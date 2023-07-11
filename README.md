@@ -6,3 +6,4 @@ I answered the following questions, arised during the descriptive analysis of th
   ~ What do you infer about the players with no hit value?
   ~ Which countries have the highest number of players with overall rating over 79?
   ~ Which club has the most attractive pull towards a player? In terms of finance
+  
